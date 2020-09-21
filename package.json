@@ -2,7 +2,7 @@
   "name": "gatsby-scss-starter",
   "description": "A Gatsby starter with scss and no assumptions",
   "version": "0.0.1",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Kali Chaudhary <kalichaudhary@gmail.com>",
   "dependencies": {
     "gatsby": "^2.24.63",
     "gatsby-plugin-react-helmet": "^3.3.11",
